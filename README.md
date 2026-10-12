@@ -12,4 +12,4 @@ opsec-report html report.json --output report.html
 
 [Documentation](docs/en/index.md)
 
-Local candidate 0.1.0a1; hosted CI and release pending. No actual restore performed.
+Alpha 0.1.0a1: 19 test methods, eleven RU/EN documentation pairs and clean wheel installation passed on Linux, Windows and macOS/Python 3.13. No actual restore performed.
