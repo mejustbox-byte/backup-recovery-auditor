@@ -1,0 +1,20 @@
+{
+  "product_version": "0.1.0a1",
+  "local_environment": "Linux/Python 3.12",
+  "test_methods": 19,
+  "documentation_pairs": 11,
+  "clean_wheel_install": "passed",
+  "hosted_ci": {
+    "run_id": 38237586290,
+    "commit": "fb2d5a8560e69641ef755b15a54473531f90461d",
+    "status": "passed",
+    "platforms": [
+      "Linux",
+      "Windows",
+      "macOS"
+    ],
+    "python": "3.13"
+  },
+  "actual_restore": "not_tested",
+  "storage_connection": "not_performed"
+}

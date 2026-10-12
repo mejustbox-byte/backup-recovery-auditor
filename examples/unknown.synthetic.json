@@ -1,0 +1,21 @@
+{
+  "schema_version": "backup-1.0",
+  "scope": "synthetic-backups",
+  "synthetic": true,
+  "assets": [
+    {
+      "id": "synthetic-vault",
+      "excessive_read": false,
+      "excessive_delete": false,
+      "encrypted": null,
+      "key_access_separate": true,
+      "immutable": true,
+      "immutability_verified": true,
+      "restore": {
+        "tested_at": "2026-10-01T00:00:00Z",
+        "result": "success",
+        "maximum_age_days": 30
+      }
+    }
+  ]
+}
